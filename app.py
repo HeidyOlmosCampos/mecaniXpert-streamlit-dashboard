@@ -7,7 +7,7 @@ import plotly.express as px  # pip install plotly-express
 
 
 
-BASE_URL = 'http://127.0.0.1:8000'
+BASE_URL = 'https://scientific-lark-heidy-0c021276.koyeb.app'
 
 # Clase para gestionar el estado de sesión
 class SessionState:
